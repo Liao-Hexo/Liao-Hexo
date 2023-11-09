@@ -9,6 +9,4 @@
 
 </h4>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Liao-Hexo&layout=compact&theme=radical&locale=en)](https://github.com/anuraghazra/github-readme-stats)[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Liao-Hexo&show_icons=true&theme=radical&count_private=true&include_all_commits=true&locale=en&hide_border=false)](https://github.com/anuraghazra/github-readme-stats)[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Liao-Hexo&theme=vue)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Liao-Hexo&theme=vue)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Liao-Hexo&layout=compact&theme=radical&locale=en)](https://github.com/anuraghazra/github-readme-stats)[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Liao-Hexo&show_icons=true&theme=radical&count_private=true&include_all_commits=true&locale=en&hide_border=false)](https://github.com/anuraghazra/github-readme-stats)[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Liao-Hexo&theme=vue)](https://github.com/ashutosh00710/github-readme-activity-graph)
